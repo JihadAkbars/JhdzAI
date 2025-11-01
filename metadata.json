@@ -1,0 +1,9 @@
+{
+  "name": "Jhdz AI Companion",
+  "description": "An advanced AI companion named Jhdz, designed to provide a human-like conversational experience. It can chat, answer questions, generate and edit images, create videos, have live voice conversations, and much more, all powered by the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
